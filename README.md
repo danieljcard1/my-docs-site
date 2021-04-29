@@ -1,2 +1,2 @@
-# my-docs-site
-demo of mkdocs publishing
+# site
+ my docs site
